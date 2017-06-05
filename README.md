@@ -1,4 +1,4 @@
-#Android KeyLogger Keyboard
+# Android KeyLogger Keyboard
 
 This is a simple modification to the SoftKeyboard sample that is included with the Android SDK. It adds a keylogger that writes output to the root directory of the SD Card (for easy access). This is provided for demonstration / diagnostic purposes only.
 
